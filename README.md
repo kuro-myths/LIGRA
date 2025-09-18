@@ -8,11 +8,11 @@
 
 ## 🏛️ Tentang LIGRA
 **LIGRA (License & Global Rights Alliance)** adalah simbol aliansi dunia baru yang berdiri kokoh di atas **5 pilar**:
-- 🔵 Biru → Kepercayaan & Stabilitas  
-- 🟢 Hijau → Pertumbuhan & Inovasi  
+- 🟦 Biru → Kepercayaan & Stabilitas  
+- 🟩 Hijau → Pertumbuhan & Inovasi  
 - 🟪 Ungu → Imajinasi & Visi Kosmos  
 - 🟨 Kuning → Optimisme & Cahaya  
-- 🔴 Merah → Kekuatan & Semangat  
+- 🟥 Merah → Kekuatan & Semangat  
 
 ---
 
